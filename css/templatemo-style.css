@@ -10,7 +10,7 @@ body {
   background: #ffffff;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
-  color: #606060;
+  color: #131212;
   position: relative;
 }
 html, body {
@@ -245,7 +245,7 @@ hr {
   margin: 4px;
 }
 .filter-wrapper li a {
-  color: #999999;
+  color: #0b0b0b;
   padding: 8px 17px;
   display: block;
   text-decoration: none;
